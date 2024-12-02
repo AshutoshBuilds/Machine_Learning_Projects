@@ -82,12 +82,12 @@ This repository is a comprehensive collection of machine learning projects, show
 - Create end-to-end machine learning pipelines
 
 ## 📝 License
-[Insert Appropriate License]
+
 
 ## 📞 Contact
 Ashutosh Shukla
 - GitHub: @AshutoshBuilds
-- Email: [Your Professional Email]
+- Email: 
 
 ---
 
